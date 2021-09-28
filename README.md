@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ricardo Orozco Calle (@RicardoOrozcoCalle) a BI Developer from Colombia.
 - 👀 I’m interested in Data Analysis, ML/AI Services, Data Services
 - 🌱 I’m currently learning Phython 3, Power BI, Azure Core Services
-- 💞️ I’m looking to collaborate on www.py4e.com
 - 📫 How to reach me :: Mail me on ricardoorozcalle@outlook.com, https://www.linkedin.com/in/ricardoorozcocalle/ or https://github.com/RicardoOrozcoCalle
 
 <!---
